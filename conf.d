@@ -8,7 +8,7 @@ http {
  client_max_body_size 7G;
  server {
        listen              443 ssl;
-       server_name         xxx.xxxxx.com;
+       server_name         uma.srinivaskattula.com;
        ssl                 on;
        ssl_certificate     tls.crt;
        ssl_certificate_key tls.key;
